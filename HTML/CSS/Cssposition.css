@@ -1,0 +1,31 @@
+div{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin: 20px;
+    border: 2px solid black;
+    width: 300px;
+}
+.para1{
+    position: static;
+    bottom: 500px;
+}
+.para2{
+    position: relative;
+    left: 500px;
+}
+.para3{
+    position: absolute;
+    top: 200px;
+}
+.para4{
+    position: fixed;
+    left: 800px;
+    top: 400px;
+}
+.para5{
+    width: 90%;
+    position: sticky;
+    top: 0;
+}

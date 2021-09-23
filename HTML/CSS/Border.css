@@ -1,0 +1,18 @@
+.b-cont1 ,.b-cont2,.b-cont3,.b-cont4{
+    background-color: steelblue;
+    padding: 10px;
+    margin: 10px;
+}
+.b-cont1{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.b-cont2{
+    border: 2px dotted black;
+}
+.b-cont3{
+    border: 5px dashed green;
+}
+.b-cont4{
+    border: 3px double orangered;
+}

@@ -1,0 +1,14 @@
+.heading1{
+    background-color: #00ffff;
+}
+.heading2{
+    color: #0040ff;
+    background-color: #f45;
+}
+.heading3{
+    background-color: rgb(175, 75, 112);
+}
+.heading4{
+    /* box-shadow: 0 0 10px black;    */
+     background-color: rgba(56, 175, 75, 0.3);
+}
